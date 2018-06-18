@@ -9,13 +9,12 @@ void draw() {
     ellipse(212, 200, 150, 150);
     fill(0,200,60);
     rect(176, 103, 12, 32);
-  
-  
-}
-
-void mousePressed(){
+  if(mousePressed){
     fill(200,200, 200);
   ellipse(75, 200, 30, 30);
   
-  
+  }
 }
+
+
+  

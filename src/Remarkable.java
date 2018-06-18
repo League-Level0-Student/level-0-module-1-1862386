@@ -18,9 +18,9 @@ public class Remarkable {
 	if(bottle.equals("Michael"))	{
 		JOptionPane.showMessageDialog(null, "Is always caring and helpful");
 	}		
-		
-		
-		
+	if(bottle.equals("Aaron")) {	
+		JOptionPane.showMessageDialog(null, "He is an amazing friend and is very hardworking");
+	}		
 		
 	}
 }
