@@ -10,6 +10,7 @@ void draw() {
 ellipse(635, 307, 25, 25);
 ellipse(754, 309, 25, 25);
 fill(0,0,0);
-ellipse(635, 307, 12, 12);
-ellipse(754, 309, 12, 12);
+ellipse(mouseX, mouseY, 12, 12);
+ellipse(mouseX, mouseY, 12, 12);
+
 }

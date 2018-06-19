@@ -19,7 +19,7 @@ public class Remarkable {
 		JOptionPane.showMessageDialog(null, "Is always caring and helpful");
 	}		
 	if(bottle.equals("Aaron")) {	
-		JOptionPane.showMessageDialog(null, "He is an amazing friend and is very hardworking");
+		JOptionPane.showMessageDialog(null, "He is an amazing friend and listens to Cardi B");
 	}		
 		
 	}
